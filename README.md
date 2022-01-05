@@ -3,7 +3,7 @@
 <span>
     <p align="center">  
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frydan7&layout=compact&title_color=fffcfc&bg_color=181617&text_color=dcd2d2"/>
-        <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Frydan7&show_icons=true&theme=radical"/>
+        <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=Frydan7&show_icons=true&theme=radical"/>
     </p>
 </span>
 <h2 align='center'>Currently Learning: </h2>
